@@ -1,7 +1,6 @@
 ### Hi 画画的baby 👋
 
-<!--
-**LiZheGuang/lizheguang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LiZheGuang/lizheguang** welcome
 
 Here are some ideas to get you started:
 
@@ -13,14 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lizheguang&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lizheguang&layout=compact&theme=radical" />
-</a>
-
