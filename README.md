@@ -13,7 +13,11 @@
 - 😄 Pronouns: DaZhaiGuang
 - ⚡ Fun fact: Play a game
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lizheguang&show_icons=true&icon_color=0078e7&title_color=0078e7">
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=lizheguang&show_icons=true&icon_color=0078e7&title_color=0078e7"> -->
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
+</p> -->
 
 #### Languages and Frameworks
 
