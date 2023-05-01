@@ -1,4 +1,8 @@
+[宅屋](http://zhaiguang.gitee.io/blobview/)
+
 <p >
+理想
+
 公车上我睡过了车站
   
 一路上我望着霓虹的北京
